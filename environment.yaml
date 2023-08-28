@@ -1,0 +1,13 @@
+name: venv-api
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - python-dotenv
+  - bson
+  - pymongo
+  - pillow
+  - flask
+  - flask-cors
+prefix: /Users/user/miniconda3/envs/venv-api

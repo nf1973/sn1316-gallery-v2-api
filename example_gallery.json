@@ -1,0 +1,104 @@
+{
+  "_id": {
+    "$oid": "64e91d0b1e1e144a539b53ed"
+  },
+  "gallery_name": "Gallery #1",
+  "gallery_date": {
+    "$date": "2020-03-01T00:00:00Z"
+  },
+  "thumbnail_x": 999,
+  "thumbnail_y": 999,
+  "photos": [
+    {
+      "seq": 0,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_369_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 1,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_370_web.jpg",
+      "x": 960,
+      "y": 1280
+    },
+    {
+      "seq": 2,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_360_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 3,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_371_web.jpg",
+      "x": 960,
+      "y": 1280
+    },
+    {
+      "seq": 4,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_385_web.jpg",
+      "x": 960,
+      "y": 1280
+    },
+    {
+      "seq": 5,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_368_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 6,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_363_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 7,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_387_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 8,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_383_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 9,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_377_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 10,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_382_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 11,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_366_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 12,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_390_web.jpg",
+      "x": 960,
+      "y": 1280
+    },
+    {
+      "seq": 13,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_381_web.jpg",
+      "x": 1280,
+      "y": 960
+    },
+    {
+      "seq": 14,
+      "url": "64e91d0b1e1e144a539b53ed/IMG_365_web.jpg",
+      "x": 1280,
+      "y": 960
+    }
+  ],
+  "thumbnail": "thumbnails/64e91d0b1e1e144a539b53ed.jpg"
+}
